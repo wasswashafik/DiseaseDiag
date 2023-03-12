@@ -36,14 +36,14 @@ Experiments and evaluations is based on the:
 
 *****************************************************************************************************************************************
 ## Reported average accuracy
-The higest average accuracy is **96.4%**. 
+The higest average accuracy is **96.8%**. 
 
 
 ******************************************************************************************************************************************
 ## Model Implementation 
 The application was mainly built with *Matlab* and *Java*. 
 
-******************* Repository Stracture *************************************************************************************************
+******************* Repository Stracture *******************************************
 
 The main folders are three: 
 (1) All-Used-Matlab-Codes
