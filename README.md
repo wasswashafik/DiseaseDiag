@@ -36,8 +36,9 @@ Experiments and evaluations is based on the:
 
 *****************************************************************************************************************************************
 ## Reported average accuracy
-The higest average accuracy is **96.8%**. 
+The higest average accuracy is 100% on 3 datasets(IPM, PlantVillage, and Turkey Disease datasets ) and Plant Doc, Rice Disease, RoCole, and NLB attained an accuracy of 99.79%, 99.95%, 98.64%, 96.46%, respectively. 
 
+for details: Consider the upcoming publication from Neural Computing and Applications of the article "Using Computer Vision and Machine Learning Techniques for Plant Disease Detection and Classification"
 
 ******************************************************************************************************************************************
 ## Model Implementation 
