@@ -1,9 +1,9 @@
 *********************************************************************************************************************************
 ## DiseaseDiag
 
-This respository details all used codes during the model implementation.
-DiseaseDiag a model designed to implement *computer-based software* and *Android* mobile application which can automatically 
-identify the plant leaf diseases based on its leaf appearance using **machine learning** and **computer vision** techniques. 
+This official repository details all codes used during the model implementation in the paper "Using Computer Vision and Machine Learning Techniques for Plant Disease Detection and Classification, Neural Computing and Applications of the Article.".
+DiseaseDiag is a model designed to implement *computer-based software* and *Android* mobile applications that can automatically 
+identify the plant leaf diseases based on their appearance using **machine learning** and **computer vision** techniques. 
 
 ***********************************************************************************************************************************
 ## Target audience
