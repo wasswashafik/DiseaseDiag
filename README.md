@@ -56,3 +56,5 @@ It has android application folder (folder with android App), Matlab program for 
 
 (3) Computer-based-software
 It has all matlab codes needed to have the computer version of the model
+
+In case there is a problem with the code, and you need help understanding it, reach out to me at wasswashafik@dcrlab.org
