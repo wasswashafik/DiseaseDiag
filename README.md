@@ -2,7 +2,7 @@
 ## DiseaseDiag
 
 This official repository details all codes used during the model implementation in the paper "**A Novel Hybrid Inception-Xception Convolutional
-Neural Network for Efficient Plant Disease Classification and Detection**" published in "**Crop Protection**."
+Neural Network for Efficient Plant Disease Classification and Detection**" published in "**Scientific African**."
 DiseaseDiag is a model designed to implement *computer-based software* and *Android* mobile applications that can automatically 
 identify the plant leaf diseases based on their appearance using **machine learning** and **computer vision** techniques. 
 
